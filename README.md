@@ -47,3 +47,11 @@
   `pip install --upgrade tensorflow-probability`
   
   `pip install gpflow`
+  
+- Add to the last line of `~/.bashrc` and run
+
+  `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-11.2/targets/x86_64-linux/lib`
+   
+  `source ~/.bashrc`
+  
+  `source activate flow`
