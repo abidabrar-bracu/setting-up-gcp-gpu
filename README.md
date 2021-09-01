@@ -46,4 +46,4 @@
   
   `pip install --upgrade tensorflow-probability`
   
-  `pip install gplow`
+  `pip install gpflow`
